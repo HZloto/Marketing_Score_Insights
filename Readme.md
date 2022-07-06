@@ -16,9 +16,5 @@ This app is developed with using Python scripts seo_traffic_scores.py and social
 
 This projet is meant for pure visualisation and therefore is based on jupyter notebooks for simplicity and readabilitiy. We first group the two datasets of interest by date to merge them on this common key. The final visualisations and plotting of the newly merged dataset can be found in the visualisations.ipynb notebook. 
 
-<h2>Warehouse.py</h2>
-
-The Warehouse script contains the MainWarehouse class which includes all the functionalities of the app and its visual aspects. 
-
 <b> This project is for educational purposes and not fit to be repurposed for any commercial use. Please contact the owner of the repository for more information.
 
