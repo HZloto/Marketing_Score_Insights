@@ -1,14 +1,14 @@
 # Marketing Score and Insights
 <b>This repo groups two projets made in the context of a Capstone project by students of the ESADE Masters of Science in Business Analytics. Credit goes to Sudhanshu Dubey, Philip Story, Sandro Widmer and Hugo Zlotowski. The first project is a marketing score for websites, the second a data analysis tool for anonymised google analytics & google ads dataset with no common keys. </b>
 
-<h1>Marketing Score - How to use</h1>
+<h2>Marketing Score - How to use</h2>
 
 <li>Make sure you have the dataset in the right folder 
 <li>Open your terminal to the location of the scripts and type “python display.py”
 <li>A user prompt will appear. Write the full URL of the website you are interested in
 <li></b>(NOTE: Make sure that your website is part of the dataset)
 
-<h1>Design and architecture</h1>
+<h2>Design and architecture</h2>
 
 This app is developed with using Python scripts seo_traffic_scores.py and social_media_score.py. Titles are self explanatory. The scoretize.py script joins the functionalities in one app and the display makes the app user friendly and outputs results in the terminal. The seo_traffic_score is based on rule based scoring through relative analysis of the dataset. The social media score uses Unsupervised Machine Learning, namely scikit learn's clustering, to categorize website into five groups and score them. 
 
