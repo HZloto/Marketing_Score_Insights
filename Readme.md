@@ -1,4 +1,4 @@
-# warehouse-management
+# Marketing Score and Insights
 <b>This repo groups two projets made in the context of a Capstone project by students of the ESADE Masters of Science in Business Analytics. Credit goes to Sudhanshu Dubey, Philip Story, Sandro Widmer and Hugo Zlotowski. The first project is a marketing score for websites, the second a data analysis tool for anonymised google analytics & google ads dataset with no common keys. </b>
 
 <h1>Marketing Score - How to use</h1>
